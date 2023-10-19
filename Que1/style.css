@@ -1,0 +1,20 @@
+nav .head{
+    color: red;
+}
+
+nav ul li{
+    color: green;
+}
+
+nav a{
+    color: red;
+}
+
+nav .Active{
+    color: blue;
+}
+
+.paragraph::first-letter{
+    color: red;
+    font-size: 40px;
+}
